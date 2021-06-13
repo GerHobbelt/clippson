@@ -3,4 +3,4 @@
 	url = https://github.com/GerHobbelt/clipp.git
 [submodule "json"]
 	path = json
-	url = git@github.com:GerHobbelt/nlohmann-json.git
+	url = https://github.com/GerHobbelt/nlohmann-json.git
